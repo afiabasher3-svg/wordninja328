@@ -1,19 +1,18 @@
-# wordninja
+#Type-Ninja A typing game and Vocabulary learning Game
 
-A new Flutter project created with FlutLab - https://flutlab.io
+##Project Description Type Ninja is a typing practice and vocabulary learning game designed to improve users' typing speed, accuracy, and English vocabulary through interactive gameplay.
 
-## Getting Started
+##Objectives Improve typing speed and accuracy. Help users learn English vocabulary. Track typing performance and progress. Provide an interactive and engaging learning experience.
 
-A few resources to get you started if this is your first Flutter project:
+##Key Features User registration and login Typing practice game Vocabulary learning by topic WPM, score, and accuracy tracking Word history and personal notes Pronunciation and word meanings
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+##Technologies Used Flutter Dart Supabase GitHub Jira
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Project Status
+The Type ninja under development
 
-## Getting Started: FlutLab - Flutter Online IDE
+Completed Project planning and requirment analysis Initial UI/UX desing and project structure Bafic project setup
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+In progress User registration and login system. Typing practice game development. Vocabulary learning and topic-based word management. Score, typing speed (WPM), and accuracy tracking. Database integration and user progress management.
+
+Planned Word history and personal notes. Word pronunciation and audio features. Advanced typing game features. Testing, debugging, and performance improvement. Final integration and documentation.
