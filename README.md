@@ -127,28 +127,6 @@ You will also need a table for game scores (used by `SupabaseService.saveScore`)
 - Flutter SDK
 - A [Supabase](https://supabase.com) project
 
-### Setup
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/<your-username>/Wordninja2.git
-   cd Wordninja2
-   ```
-
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Configure Supabase**
-   Add your project URL and anon key where Supabase is initialized (see `lib/services/supabase_service.dart` / `main.dart`).
-
-4. **Create the tables** from the SQL above and insert your topics and words.
-
-5. **Run the app**
-   ```bash
-   flutter run
-   ```
 
 ### Setting a custom app icon
 Place the generated `mipmap-*` folders (e.g. from [appicon.co](https://appicon.co)) in `android/app/src/main/res/`, rebuild, and **uninstall the old app first** – Android caches launcher icons.
@@ -164,12 +142,3 @@ Place the generated `mipmap-*` folders (e.g. from [appicon.co](https://appicon.c
 
 ---
 
-## 🤝 Contributing
-
-Issues and pull requests are welcome. For big changes, please open an issue first to discuss what you'd like to change.
-
----
-
-## 📄 License
-
-Add a license of your choice (e.g. MIT) and update this section.
